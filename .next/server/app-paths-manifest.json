@@ -1,0 +1,7 @@
+{
+  "/sip-calculator/page": "app/sip-calculator/page.js",
+  "/share-calculator/page": "app/share-calculator/page.js",
+  "/land-converter/page": "app/land-converter/page.js",
+  "/emi-calculator/page": "app/emi-calculator/page.js",
+  "/page": "app/page.js"
+}
