@@ -16,35 +16,20 @@
       "static/chunks/main-app.js",
       "static/chunks/app/qr-generator/page.js"
     ],
-    "/emi-calculator/page": [
+    "/blog/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/emi-calculator/page.js"
+      "static/chunks/app/blog/page.js"
     ],
-    "/sip-calculator/page": [
+    "/blog/[slug]/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/sip-calculator/page.js"
-    ],
-    "/share-calculator/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/share-calculator/page.js"
-    ],
-    "/land-converter/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/land-converter/page.js"
+      "static/chunks/app/blog/[slug]/page.js"
     ],
     "/nrb-rates/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/nrb-rates/page.js"
-    ],
-    "/gold-silver/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/gold-silver/page.js"
     ]
   }
 }
